@@ -38,3 +38,17 @@ behavioral/strategy/typescript/play-behaviors/Dram.js
 behavioral/strategy/typescript/play-behaviors/Dram.js.map
 behavioral/strategy/typescript/play-behaviors/Guitar.js
 behavioral/strategy/typescript/play-behaviors/Guitar.js.map
+structural/decorator/typescript/app.js
+structural/decorator/typescript/app.js.map
+structural/decorator/typescript/IRepair.js
+structural/decorator/typescript/IRepair.js.map
+structural/decorator/typescript/Repair.js
+structural/decorator/typescript/Repair.js.map
+structural/decorator/typescript/repair-decorators/Floor.js
+structural/decorator/typescript/repair-decorators/Floor.js.map
+structural/decorator/typescript/repair-decorators/RepairDecorator.js
+structural/decorator/typescript/repair-decorators/RepairDecorator.js.map
+structural/decorator/typescript/repair-decorators/Roof.js
+structural/decorator/typescript/repair-decorators/Roof.js.map
+structural/decorator/typescript/repair-decorators/Walls.js
+structural/decorator/typescript/repair-decorators/Walls.js.map
